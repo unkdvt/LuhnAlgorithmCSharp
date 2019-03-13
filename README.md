@@ -3,7 +3,6 @@ Luhn Algorithm C#
 
 From Wikipedia, the free encyclopedia
 
-Jump to navigationJump to search
 The Luhn algorithm or Luhn formula, also known as the "modulus 10" or "mod 10" algorithm, named after IBM scientist Hans Peter Luhn,
 is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, National 
 Provider Identifier numbers in the United States, Canadian Social Insurance Numbers, Israel ID Numbers and Greek Social Security Numbers 
