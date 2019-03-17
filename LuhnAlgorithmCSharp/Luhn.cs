@@ -13,8 +13,8 @@ namespace LuhnAlgorithmCSharp
         /// This class is created on 13 March 2019, at 17:17 (UTC).
         /// by Lakmal http://github.com/l4km47
         /// </summary>
-        /// <param name="ccNumber"></param>
-        /// <returns></returns>
+        /// <param name="ccNumber">Credit/Debit/etc card number</param>
+        /// <returns>bool</returns>
         public static bool check(string ccNumber)
         {
             int sum = 0;
